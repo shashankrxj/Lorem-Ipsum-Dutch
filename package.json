@@ -1,0 +1,16 @@
+{
+  "name": "lorem-ipsum-dutch",
+  "version": "1.0.7",
+  "description": "npm package for text-filler",
+  "main": "loremIpsum",
+  "files": [
+    "loremIpsum.js",
+    "corpus.txt"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
