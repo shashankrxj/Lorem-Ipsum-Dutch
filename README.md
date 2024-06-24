@@ -1,4 +1,4 @@
-# Lorem Ipsum Dutch
+# lorem ipsum dutch
 ## Overview
 This project is a customizable Lorem Ipsum text generator implemented in Node.js, specifically designed for generating Lorem Ipsum text in Dutch. It allows you to generate random words, sentences, or paragraphs for use in your projects.
 
